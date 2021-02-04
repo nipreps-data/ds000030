@@ -1,4 +1,4 @@
 [submodule "derivatives"]
 	path = derivatives
-	url = ./derivatives
+	url = https://github.com/nipreps-data/ds000030-derivatives.git
 	datalad-id = 587f0994-39e5-4d23-a650-2e0efcc514d4
